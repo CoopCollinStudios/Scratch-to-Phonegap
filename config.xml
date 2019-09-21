@@ -7,14 +7,14 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Teacher's App</name>
+    <name>Teachers App</name>
 
     <description>
         An app made using Scratch, GitHub, and PhoneGap.
     </description>
 
-    <author href="http://scratch.mit.edu/users/Epiccoop" Collinstreb@gmail.com="">
-        Epiccoop
+    <author href="http://scratch.mit.edu/users/Epiccoop" email = "Collinstrebe@gmail.com=">
+        EpicCoop
     </author>
 
 </widget>
